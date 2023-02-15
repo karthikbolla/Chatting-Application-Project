@@ -4,7 +4,7 @@ This is a chatting application project that I developed based on networking conc
 ## Features:
 * Real-time messaging using client-server architecture.
 * GUI developed using AWT and Swing libraries.
-* Ability to send and receive messages, including images and files.
+* Ability to send and receive messages.
 
  ## Technologies Used:
 * Java
